@@ -25,7 +25,7 @@ h6 {
     font-weight: 700;
 }
 header {
-    background: linear-gradient(rgba(255, 236, 63, 0), rgba(255, 236, 63, 1)), url("img/espuma.jpg") center bottom no-repeat;
+    background: linear-gradient(rgba(255, 236, 63, 0), rgba(255, 236, 63, 1)), url("img/HEADER.jpg") center bottom no-repeat;
     background-size: cover;
     padding: 12vh 0 0 0;
 }
